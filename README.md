@@ -1,9 +1,9 @@
 # Training2016
-<<<<<<< HEAD
+<<<<<<< 
 ***
---Nate Davidson
+--Nate Davidboymemer
 ***
 =======
 Hello my name is Eric yo
 Bello?
->>>>>>> origin/master
+>>>>>>> 
