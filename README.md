@@ -1,9 +1,11 @@
 # Training2016
 <<<<<<< 
 ***
---Nate Davidboymemer
+--Nate Davidson
 ***
 =======
+
+***
 Hello my name is Eric yo
-Bello?
->>>>>>> 
+Hello?
+***
