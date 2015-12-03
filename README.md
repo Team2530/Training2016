@@ -1,2 +1,2 @@
 # Training2016
-Hello my name is Eric yo.
+Hello my name is Eric yo
