@@ -1,7 +1,8 @@
 # Training2016
-<<<<<<< 
+
 ***
 --Nate Davidson
+--This is to demonstrate the GitHub instructions.
 ***
 =======
 
